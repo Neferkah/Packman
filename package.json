@@ -1,0 +1,25 @@
+{
+  "name": "pacman-js2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdhox/pacman-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdhox/pacman-js/issues"
+  },
+  "homepage": "https://github.com/rdhox/pacman-js#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
